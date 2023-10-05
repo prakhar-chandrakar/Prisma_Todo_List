@@ -21,6 +21,6 @@ git clone https://github.com/prakhar-chandrakar/simple-todo-app.git<br>
 cd simple-todo-app<br>
 npm install<br>
 To start the development server, run the following command:<br>
-<br>
 npm start<br>
+<br>
 The development server will be running on port 3000 by default. You can access the app in your browser by navigating to http://localhost:3000.<br>
